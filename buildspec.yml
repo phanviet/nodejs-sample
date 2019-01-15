@@ -21,4 +21,4 @@ phases:
 artifacts:
   files:
     - HelloWorld.js
-  name: HelloWorld${date +%Y-%m-%d}.js
+  name: nodejs-sample${date +%Y-%m-%d}
