@@ -1,5 +1,5 @@
 var test = require('unit.js');
-var str = 'Hello, world!';
+var str = 'Hello, world updated!';
 
 test.string(str).startsWith('Hello');
 if (test.string(str).startsWith('Hello')) {
